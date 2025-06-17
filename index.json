@@ -30,5 +30,19 @@
       "https://example.com/previews/reverb2.jpg",
       "https://example.com/previews/reverb3.jpg"
     ]
+  },
+  {
+    "name": "Test Ext Pack",
+    "price": 0.00,
+    "filepath": "77756A787432693C337379336B69687271716B666672307330666A774379727972763E7273667B6D642B71686A40686635493572636B55497B5577514A67724E4A714F645D59737E475A755752536665",  // verschlüsselter Download-Link zur ZIP-Datei
+    "description": "Just a test",
+    "type": "Extension Pack [TP]",
+    "included_instruments": [],
+    "icon_url": "https://example.com/icons/vintage-reverb.png",
+    "preview_images": [
+      "https://example.com/previews/reverb1.jpg",
+      "https://example.com/previews/reverb2.jpg",
+      "https://example.com/previews/reverb3.jpg"
+    ]
   }
 ]
