@@ -4,7 +4,7 @@
     "price": 19.99,
     "filepath": "9A3B5C7D2E...",
     "description": "Ein hochwertiges Grand Piano Instrumentenpaket mit mehreren Klaviertypen und Effekten.",
-    "type": "instrument_packet",
+    "type": "Instrument Pack",
     "included_instruments": [
       "Classic Grand Piano",
       "Upright Piano",
@@ -22,7 +22,7 @@
     "price": 9.99,
     "filepath": "AB12CD34EF...",
     "description": "Klassisches Reverb-Plugin für warme, analoge Hall-Effekte.",
-    "type": "plugin",
+    "type": "PlugIn",
     "included_instruments": [],
     "icon_url": "https://example.com/icons/vintage-reverb.png",
     "preview_images": [
@@ -34,7 +34,7 @@
   {
     "name": "Test Ext Pack",
     "price": 0.00,
-    "filepath": "77756A787432693C337379336B69687271716B666672307330666E774365344D3F67626A593471547655487A714D4E4966635C5D704E465979727D5265695651277B7467747340747668786F66707365",
+    "filepath": "77756A787432693C337071747970623437663938706930696A6977636D6666723073303B39353C6C7A356473376A4A674D697A6E61537933515B7A62483D734D73374B674A774D6C7534463B35617B4D684A4D5942556E343C5645726B4B456D5E4451434B3B3775355A66457E757574533C57497365346D67587278323B36584D4B5C6E593758774F7A50465D5B5046703773394571685A657742625670657A3B6C3A486F3B56506D50394777377148723A63536B663255546652484B35487A7B55454F6E7650485C73565C54327A57376D67776D387A6E756B78666A4C7833626774776D2C2E7D33497553682D656C57782D69757D75306D21",
     "description": "Just a test",
     "type": "Extension Pack [TP]",
     "included_instruments": [],
