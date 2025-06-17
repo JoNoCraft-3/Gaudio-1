@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Classic Grand Piano Pack",
+    "price": 19.99,
+    "filepath": "9A3B5C7D2E...",  // verschlüsselter Download-Link zur ZIP-Datei
+    "description": "Ein hochwertiges Grand Piano Instrumentenpaket mit mehreren Klaviertypen und Effekten.",
+    "type": "instrument_packet",
+    "included_instruments": [
+      "Classic Grand Piano",
+      "Upright Piano",
+      "Electric Piano"
+    ],
+    "icon_url": "https://example.com/icons/classic-grand-piano.png",
+    "preview_images": [
+      "https://example.com/previews/piano1.jpg",
+      "https://example.com/previews/piano2.jpg",
+      "https://example.com/previews/piano3.jpg"
+    ]
+  },
+  {
+    "name": "Vintage Reverb Plugin",
+    "price": 9.99,
+    "filepath": "AB12CD34EF...",  // verschlüsselter Download-Link zur ZIP-Datei
+    "description": "Klassisches Reverb-Plugin für warme, analoge Hall-Effekte.",
+    "type": "plugin",
+    "included_instruments": [],
+    "icon_url": "https://example.com/icons/vintage-reverb.png",
+    "preview_images": [
+      "https://example.com/previews/reverb1.jpg",
+      "https://example.com/previews/reverb2.jpg",
+      "https://example.com/previews/reverb3.jpg"
+    ]
+  }
+]
