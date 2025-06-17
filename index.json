@@ -2,7 +2,7 @@
   {
     "name": "Classic Grand Piano Pack",
     "price": 19.99,
-    "filepath": "9A3B5C7D2E...",  // verschlüsselter Download-Link zur ZIP-Datei
+    "filepath": "9A3B5C7D2E...",
     "description": "Ein hochwertiges Grand Piano Instrumentenpaket mit mehreren Klaviertypen und Effekten.",
     "type": "instrument_packet",
     "included_instruments": [
@@ -20,7 +20,7 @@
   {
     "name": "Vintage Reverb Plugin",
     "price": 9.99,
-    "filepath": "AB12CD34EF...",  // verschlüsselter Download-Link zur ZIP-Datei
+    "filepath": "AB12CD34EF...",
     "description": "Klassisches Reverb-Plugin für warme, analoge Hall-Effekte.",
     "type": "plugin",
     "included_instruments": [],
@@ -34,7 +34,7 @@
   {
     "name": "Test Ext Pack",
     "price": 0.00,
-    "filepath": "77756A787432693C337379336B69687271716B666672307330666A774379727972763E7273667B6D642B71686A40686635493572636B55497B5577514A67724E4A714F645D59737E475A755752536665",  // verschlüsselter Download-Link zur ZIP-Datei
+    "filepath": "77756A787432693C337379336B69687271716B666672307330666A774379727972763E7273667B6D642B71686A40686635493572636B55497B5577514A67724E4A714F645D59737E475A755752536665",
     "description": "Just a test",
     "type": "Extension Pack [TP]",
     "included_instruments": [],
